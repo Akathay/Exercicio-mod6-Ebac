@@ -1,0 +1,11 @@
+Programação Procedural:
+ -Tem um começo, meio e fim
+Todas as classes ficam juntas.
+O código fica um pouco bagunçado e não é mais muito utilizada.
+
+
+Programação Orientada à Objetos:
+
+ -Pode começar de qualquer passo
+Tem uma classe separada para cada função.
+Cada classe possui apenas funções relacionadas àquela classe, deixando o código mais organizado e de fácil entendimento.
